@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    --color_gold: #957554;
+}
+
+.text-gold {
+    color:var(--color_gold)
+}
